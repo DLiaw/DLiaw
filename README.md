@@ -34,6 +34,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="https://github.com/DLiaw"><img src="contributions.svg"></a>
+
+<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=tondrejk.tondrejk" />
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DLiaw&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
