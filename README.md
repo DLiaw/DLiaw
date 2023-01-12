@@ -7,7 +7,7 @@
 
 -📫 How to reach me: DL0429922@gmail.com 
 
--🔭 I’m currently working on Help!
+-🔭 I’m currently working on Help! 
 
 -🤔 I’m looking for help with finding a job.
 
