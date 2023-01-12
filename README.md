@@ -29,7 +29,7 @@
 
 -🤔 I’m looking for help with finding a job.
 
--💬 Ask me about the weather.
+-💬 Ask me about the StarCraft.
 
 -⚡ Fun fact: Humans are the only animals that blush!
 
