@@ -9,7 +9,7 @@
  
 -🔭 I’m currently working on Help! 
 
--🤔 I’m looking for help with finding a job.
+-🤔 I’m looking for help with finding a job. 
 
 -💬 Ask me about StarCraft.
 
