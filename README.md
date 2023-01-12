@@ -19,6 +19,10 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DLiaw&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DLiaw&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 -📫 How to reach me: DL0429922@gmail.com
 
 -🔭 I’m currently working on Help!
@@ -29,10 +33,6 @@
 
 -⚡ Fun fact: Humans are the only animals that blush!
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DLiaw&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DLiaw&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect 
 <a href="https://www.linkedin.com/in/david-liaw-55a510251/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
