@@ -20,7 +20,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer;Social+media+marketing;Web+developer)](https://git.io/typing-svg)
 ### Connect
-<a href="https://www.linkedin.com/in/david-liaw-55a510251/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
+<a href="https://www.linkedin.com/in/david-liaw-55a510251/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://angel.co/u/david-liaw-1">![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)</a>
 
 
