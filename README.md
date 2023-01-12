@@ -24,5 +24,4 @@
 <a href="https://angel.co/u/david-liaw-1">![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)</a>
 
 
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v1.1.4
+
