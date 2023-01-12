@@ -19,11 +19,11 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-📫 How to reach me: DL0429922@gmail.com
-🔭 I’m currently working on Help!
-🤔 I’m looking for help with finding a job.
-💬 Ask me about the weather.
-⚡ Fun fact: Humans are the only animals that blush!
+-📫 How to reach me: DL0429922@gmail.com
+-🔭 I’m currently working on Help!
+-🤔 I’m looking for help with finding a job.
+-💬 Ask me about the weather.
+-⚡ Fun fact: Humans are the only animals that blush!
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DLiaw&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
