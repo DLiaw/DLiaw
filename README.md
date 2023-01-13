@@ -1,4 +1,4 @@
-### Hi there I'm David from Queens NYC👋        
+### Hi there I'm David from Queens NYC👋         
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DLiaw&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
